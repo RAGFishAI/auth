@@ -1,8 +1,8 @@
 package migration
 
 import (
-	"github.com/ragfish/auth/migration/mysql"
-	"github.com/ragfish/auth/migration/postgres"
+	"github.com/RAGFishAI/auth/migration/mysql"
+	"github.com/RAGFishAI/auth/migration/postgres"
 	"gorm.io/gorm"
 )
 

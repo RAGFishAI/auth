@@ -1,4 +1,4 @@
-module github.com/ragfish/auth
+module github.com/RAGFishAI/auth
 
 go 1.19
 
@@ -6,7 +6,6 @@ require (
 	github.com/aws/aws-sdk-go v1.55.5
 	github.com/golang-jwt/jwt v3.2.2+incompatible
 	github.com/google/uuid v1.6.0
-	github.com/ragfish/auth v0.0.44
 	golang.org/x/crypto v0.21.0
 	gorm.io/datatypes v1.2.0
 	gorm.io/driver/postgres v1.5.0

@@ -9,9 +9,9 @@ import (
 	"strings"
 	"time"
 
+	"github.com/RAGFishAI/auth/migration"
 	"github.com/golang-jwt/jwt"
 	"github.com/google/uuid"
-	"github.com/ragfish/auth/migration"
 	"golang.org/x/crypto/bcrypt"
 )
 
